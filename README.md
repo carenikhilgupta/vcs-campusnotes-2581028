@@ -14,3 +14,6 @@ CampusNotes is a simple college notes manager.
 
 ## Created by
 Nikhil Gupta
+
+## Project Status
+CampusNotes initial version is available.
